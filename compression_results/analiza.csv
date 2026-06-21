@@ -1,0 +1,7 @@
+algorithm,input_file,original_size,compressed_size,ratio,saving_percent,dictionary_size,elapsed_ms
+lz78,primeri\tekst_ponavljanja.txt,547,786,1.4369,-43.69,194,0.462
+lzw,primeri\tekst_ponavljanja.txt,547,358,0.6545,34.55,484,0.474
+lz78,primeri\kratak_tekst.txt,44,130,2.9545,-195.45,30,0.039
+lzw,primeri\kratak_tekst.txt,44,77,1.75,-75,297,0.117
+lz78,primeri\mesoviti_podaci.bin,401,1326,3.3067,-230.67,329,0.249
+lzw,primeri\mesoviti_podaci.bin,401,509,1.2693,-26.93,585,0.457

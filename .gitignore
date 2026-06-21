@@ -1,0 +1,8 @@
+source_code/Java project/java_impl/runtime/
+*.dll
+*.exe
+!source_code/Python project/python_impl.exe
+!source_code/Java project/java_impl.exe
+!source_code/Java project/java_impl/java_impl.exe
+__pycache__/
+*.pyc
