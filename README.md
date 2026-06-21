@@ -51,9 +51,3 @@ Za Java graficki interfejs, ako je Java okruzenje dostupno:
 ```powershell
 java -cp build GuiApp
 ```
-
-## Napomena za .exe fajlove
-
-Za predaju preko gita najbolja opcija je da ostane dodat `source_code/Python project/python_impl.exe`, jer je to jedan izvrsni fajl koji profesor moze direktno da pokrene na Windows racunaru.
-
-Java `java_impl.exe` bez prateceg runtime foldera nije potpuno samostalna opcija. Moze raditi samo ako su prisutni odgovarajuci `app` fajlovi i kompatibilno Java okruzenje. Dodavanje celog Java runtime foldera na git nije preporucljivo, jer sadrzi mnogo sistemskih fajlova i nepotrebno uvecava repozitorijum.
